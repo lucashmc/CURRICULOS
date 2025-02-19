@@ -1,0 +1,21 @@
+ body{
+       font-family: arial, sans-serif;
+       margin: 0;
+       padding: 0%;
+       background-color: #f4f4f4;
+       color: #333;
+
+
+ } 
+    /* Configura do cabeçalho do projeto   */
+ header{
+
+
+ }
+ /* configura foto do curriculo */
+.foto-perfil{
+    width: 250px;
+    height: 300px;
+    border-radius: 80%;
+    border: 3px solid white;
+}
