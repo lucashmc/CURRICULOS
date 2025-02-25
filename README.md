@@ -12,7 +12,7 @@
  sistemas em geral, agora atualmente como lider de loja faço organizaçao e orientaçao da equipe, treinamentos 
  sobre segurança de trbalho, fechamento do caixas. 
  
-* Idiomas:Ingles (basico)
+* Idiomas:Ingles (intermediario)
  
 * Habilidades TECNICAS:EXCEL E PACOTE OFFICE(BASICO)
  
