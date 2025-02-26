@@ -2,14 +2,14 @@
        font-family: arial, sans-serif;
        margin: 0;
        padding: 0%;
-       background-color: #f4f4f4;
+       background-color: #2a0042;
        color: #333;
 
 
  } 
     /* Configura do cabeçalho do projeto   */
- header{
-     background: #001024;
+ header{ 
+    background: #000000;
      color: rgb(255, 255, 255);
      padding: 20px;
      text-align: center;
@@ -28,9 +28,9 @@
 section{
     margin: 20px;
     padding: 20px;
-    background: white;
-    border-radius: 10px;
-    box-shadow: 10px 5px 5px rgba(42, 4, 4, 0.9)
+    background: rgb(255, 254, 254);
+    border-radius: 60px;
+    box-shadow: 10px 10px 10px rgba(8, 31, 73, 0.9)
 
 }
 li{
